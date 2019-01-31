@@ -6,6 +6,6 @@ Simply put the entire code in your functions.php file, and call function in your
 `lt_image_resize('url', width, height)`
 
 Where:
-`url` - image address,
-`width` - image width (just number),
-`height` - image height (just number).
+`url` - image address,<br />
+`width` - image width (just number),<br />
+`height` - image height (just number).<br />
